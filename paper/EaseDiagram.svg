@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="340.62817mm"
+   height="298.03461mm"
+   viewBox="0 0 340.62817 298.03461"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="EaseDiagram.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:export-filename="EaseDiagram.png"
+   inkscape:export-xdpi="360"
+   inkscape:export-ydpi="360"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="0.52724989"
+     inkscape:cx="601.23294"
+     inkscape:cy="531.05748"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6077" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1922">
+      <stop
+         style="stop-color:#f0f0f0;stop-opacity:1;"
+         offset="0"
+         id="stop1918" />
+      <stop
+         style="stop-color:#cfe6f7;stop-opacity:1;"
+         offset="1"
+         id="stop1920" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1884">
+      <stop
+         style="stop-color:#f0f0f0;stop-opacity:1;"
+         offset="0"
+         id="stop1880" />
+      <stop
+         style="stop-color:#cfe6f7;stop-opacity:1;"
+         offset="1"
+         id="stop1882" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5156">
+      <stop
+         style="stop-color:#f0f0f0;stop-opacity:1;"
+         offset="0"
+         id="stop5152" />
+      <stop
+         style="stop-color:#cfe6f7;stop-opacity:1;"
+         offset="1"
+         id="stop5154" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5117">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5113" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5115" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5117"
+       id="linearGradient5119"
+       x1="258.57819"
+       y1="160.7892"
+       x2="345.65182"
+       y2="160.7892"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.8,0,0,0.8,62.603819,-23.817536)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5156"
+       id="linearGradient5158"
+       x1="137.44508"
+       y1="52.870968"
+       x2="161.80644"
+       y2="52.870968"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-47.548386,-23.258152)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5156"
+       id="linearGradient1252"
+       gradientUnits="userSpaceOnUse"
+       x1="137.44508"
+       y1="52.870968"
+       x2="161.80644"
+       y2="52.870968"
+       gradientTransform="translate(-44.225534,24.989266)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5156"
+       id="linearGradient1275"
+       gradientUnits="userSpaceOnUse"
+       x1="137.44508"
+       y1="52.870968"
+       x2="161.80644"
+       y2="52.870968"
+       gradientTransform="translate(-47.064243,72.892491)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5156"
+       id="linearGradient1298"
+       gradientUnits="userSpaceOnUse"
+       x1="137.44508"
+       y1="52.870968"
+       x2="161.80644"
+       y2="52.870968"
+       gradientTransform="translate(-47.419082,116.53765)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1884"
+       id="linearGradient1321"
+       gradientUnits="userSpaceOnUse"
+       x1="137.44508"
+       y1="52.870968"
+       x2="161.80644"
+       y2="52.870968"
+       gradientTransform="translate(-50.257792,156.63443)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1922"
+       id="linearGradient1324"
+       gradientUnits="userSpaceOnUse"
+       x1="137.44508"
+       y1="52.870968"
+       x2="161.80644"
+       y2="52.870968"
+       gradientTransform="translate(-47.548386,-23.258152)" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4792"
+       x="-0.040876892"
+       y="-0.42617797"
+       width="1.0817538"
+       height="1.8523559">
+      <feFlood
+         flood-opacity="0.745098"
+         flood-color="rgb(82,165,226)"
+         result="flood"
+         id="feFlood4782" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4784" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2.9"
+         result="blur"
+         id="feGaussianBlur4786" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset4788" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4790" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4804"
+       x="-0.040876892"
+       y="-0.21981822"
+       width="1.0817538"
+       height="1.4396364">
+      <feFlood
+         flood-opacity="0.745098"
+         flood-color="rgb(82,165,226)"
+         result="flood"
+         id="feFlood4794" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4796" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2.9"
+         result="blur"
+         id="feGaussianBlur4798" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset4800" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4802" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4816"
+       x="-0.040876895"
+       y="-0.29832469"
+       width="1.0817538"
+       height="1.5966494">
+      <feFlood
+         flood-opacity="0.745098"
+         flood-color="rgb(82,165,226)"
+         result="flood"
+         id="feFlood4806" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4808" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2.9"
+         result="blur"
+         id="feGaussianBlur4810" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset4812" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4814" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4828"
+       x="-0.040876892"
+       y="-0.1420594"
+       width="1.0817538"
+       height="1.2841188">
+      <feFlood
+         flood-opacity="0.745098"
+         flood-color="rgb(82,165,226)"
+         result="flood"
+         id="feFlood4818" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4820" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2.9"
+         result="blur"
+         id="feGaussianBlur4822" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset4824" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4826" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4840"
+       x="-0.040876892"
+       y="-0.26675505"
+       width="1.0817538"
+       height="1.5335101">
+      <feFlood
+         flood-opacity="0.745098"
+         flood-color="rgb(82,165,226)"
+         result="flood"
+         id="feFlood4830" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4832" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2.9"
+         result="blur"
+         id="feGaussianBlur4834" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset4836" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4838" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4852"
+       x="-0.040876892"
+       y="-0.2107806"
+       width="1.0817538"
+       height="1.4215612">
+      <feFlood
+         flood-opacity="0.745098"
+         flood-color="rgb(82,165,226)"
+         result="flood"
+         id="feFlood4842" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4844" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2.9"
+         result="blur"
+         id="feGaussianBlur4846" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset4848" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4850" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(37.710347,2.4254232)">
+    <g
+       id="g6077">
+      <path
+         id="rect4849"
+         style="opacity:1;fill:url(#linearGradient1324);fill-opacity:1;stroke-width:0.899999;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;stop-opacity:1"
+         d="m 89.896707,21.136265 c 10.732843,0 14.587233,0.217479 24.335083,0.217479 v 35.155041 c -9.43048,0 -14.13972,-15.810951 -24.335093,-15.810951 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="rect4849-4"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient5158);fill-opacity:1;stroke-width:0.899999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m 89.896707,73.253055 c 10.732843,0 14.587233,-1.581206 24.335083,-1.581206 v 52.161291 c -9.43048,0 -14.13971,-32.094265 -24.335083,-32.094265 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="rect4849-4-0"
+         style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient1252);fill-opacity:1;stroke-width:0.899999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         d="m 89.896707,124.29413 c 10.732843,0 14.587233,14.70207 24.335083,14.70207 l 0.48414,33.70968 c -9.43048,0 -14.62385,-29.38786 -24.819223,-29.38786 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="rect4849-4-5"
+         style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient1275);fill-opacity:1;stroke-width:0.899999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         d="m 89.896707,175.87327 c 10.732843,0 14.587233,11.99567 24.335083,11.99567 v 17.3871 c -9.43048,0 -14.13971,-15.06199 -24.335083,-15.06199 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="rect4849-4-7"
+         style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient1298);fill-opacity:1;stroke-width:0.899999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         d="m 89.896477,222.74931 c 10.732843,0 14.587463,-2.3302 24.335313,-2.3302 v 24.83871 c -9.43048,0 -14.13994,-3.48471 -24.335313,-3.48471 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="rect4849-4-57"
+         style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient1321);fill-opacity:1;stroke-width:0.899999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         d="m 89.896707,274.32841 c 10.732843,0 14.587233,-13.90753 24.335083,-13.90753 v 27.77828 c -9.43048,0 -14.13971,0.45002 -24.335083,0.45002 z"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         id="g1146"
+         transform="translate(-47.548386,9.740199)"
+         style="filter:url(#filter4792)">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#cfe6f7;fill-opacity:1;stroke:#8dc4ec;stroke-width:0.900001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect4852-7"
+           width="181.27603"
+           height="17.387104"
+           x="161.78017"
+           y="178.12874" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.7611px;line-height:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Bold';text-align:start;text-decoration-color:#000000;text-anchor:start;white-space:pre;inline-size:441.01;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375;stroke-dasharray:none;stop-color:#000000"
+           x="-57.732727"
+           y="113.54839"
+           id="text517"
+           transform="matrix(0.8,0,0,0.8,216.79507,97.77833)"><tspan
+             x="-57.732727"
+             y="113.54839"
+             id="tspan1864"><tspan
+   style="stroke:#000000"
+   id="tspan1862">setMetapopulation</tspan>(populations,  migMat)</tspan></text>
+      </g>
+      <g
+         id="g1154"
+         transform="translate(-47.548386,-1.51993)"
+         style="filter:url(#filter4804)">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#cfe6f7;fill-opacity:1;stroke:#8dc4ec;stroke-width:0.900001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect4852-1"
+           width="181.27603"
+           height="33.709675"
+           x="161.78017"
+           y="140.51613" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.20888px;line-height:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Bold';text-align:start;text-decoration-color:#000000;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stop-color:#000000"
+           x="171.17604"
+           y="151.5918"
+           id="text553"><tspan
+             sodipodi:role="line"
+             id="tspan551"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none"
+             x="171.17604"
+             y="151.5918"><tspan
+   style="stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan5082">setPopulation</tspan>(name, size, dioecy, genomeObj,</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none"
+             x="171.17604"
+             y="159.35289"
+             id="tspan1466">              selectionObj, mutMatrixObj,</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none"
+             x="171.17604"
+             y="167.114"
+             id="tspan1472">              selfRate, ...)</tspan></text>
+      </g>
+      <g
+         id="g1140"
+         transform="translate(-47.548386,21.354607)"
+         style="filter:url(#filter4816)">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#cfe6f7;fill-opacity:1;stroke:#8dc4ec;stroke-width:0.900002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect4852-7-7"
+           width="181.27603"
+           height="24.838713"
+           x="161.78017"
+           y="199.0645" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.20888px;line-height:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Bold';text-align:start;text-decoration-color:#000000;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stop-color:#000000"
+           x="171.17604"
+           y="209.47305"
+           id="text1213"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Bold';stroke-width:0.3;stroke-dasharray:none"
+             x="171.17604"
+             y="209.47305"
+             id="tspan1221"><tspan
+   style="stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan5086">simulate</tspan>(metapop, nsim, seed, recording,</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Bold';stroke-width:0.3;stroke-dasharray:none"
+             x="171.17604"
+             y="217.23415"
+             id="tspan1474">         recordGenGap,  threshold)</tspan></text>
+      </g>
+      <g
+         id="g1170"
+         transform="translate(-47.548386,-12.376857)"
+         style="filter:url(#filter4828)">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#cfe6f7;fill-opacity:1;stroke:#8dc4ec;stroke-width:0.900001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect4852"
+           width="181.27603"
+           height="52.161285"
+           x="161.78017"
+           y="84.048706" />
+        <g
+           id="g1123"
+           transform="translate(0,-0.06696186)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.20888px;line-height:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Bold';text-align:start;text-decoration-color:#000000;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stop-color:#000000"
+             x="170.60912"
+             y="95.279785"
+             id="text1233"><tspan
+               sodipodi:role="line"
+               id="tspan1231"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Bold';stroke-width:0.3;stroke-dasharray:none"
+               x="170.60912"
+               y="95.279785"><tspan
+   style="stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan5074">setSelectOnInds</tspan>()</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.20888px;line-height:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Bold';text-align:start;text-decoration-color:#000000;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stop-color:#000000"
+             x="170.60912"
+             y="106.57068"
+             id="text1237"><tspan
+               sodipodi:role="line"
+               id="tspan1235"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Bold';stroke-width:0.3;stroke-dasharray:none"
+               x="170.60912"
+               y="106.57068"><tspan
+   style="stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan5076">setSelectOnGametes</tspan>()</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.20888px;line-height:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Bold';text-align:start;text-decoration-color:#000000;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stop-color:#000000"
+             x="170.60912"
+             y="117.86157"
+             id="text1241"><tspan
+               sodipodi:role="line"
+               id="tspan1239"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Bold';stroke-width:0.3;stroke-dasharray:none"
+               x="170.60912"
+               y="117.86157"><tspan
+   style="stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan5078">setSelectOnGametesProd</tspan>()</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.20888px;line-height:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Bold';text-align:start;text-decoration-color:#000000;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stop-color:#000000"
+             x="170.60912"
+             y="129.15248"
+             id="text1245"><tspan
+               sodipodi:role="line"
+               id="tspan1243"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Bold';stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+               x="170.60912"
+               y="129.15248">setSelectNeutral<tspan
+   style="stroke:none"
+   id="tspan5080">()</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g1133"
+         transform="translate(-47.548386,29.775711)"
+         style="filter:url(#filter4840)">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#cfe6f7;fill-opacity:1;stroke:#8dc4ec;stroke-width:0.900001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect4852-7-6"
+           width="181.27603"
+           height="27.778296"
+           x="161.78017"
+           y="230.64517" />
+        <g
+           id="g1109"
+           transform="translate(-98.290332,145.36595)">
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:6.20888px;line-height:normal;font-family:Merriweather;-inkscape-font-specification:'Merriweather Bold';text-align:start;text-decoration-color:#000000;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stop-color:#000000"
+             x="269.09348"
+             y="95.279785"
+             id="text1213-3"><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Bold';stroke-width:0.3;stroke-dasharray:none"
+               x="269.09348"
+               y="95.279785"
+               id="tspan1221-4"><tspan
+   style="stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan5088">getResults</tspan>(metapop)</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:6.20888px;line-height:normal;font-family:Merriweather;-inkscape-font-specification:'Merriweather Bold';text-align:start;text-decoration-color:#000000;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke:url(#linearGradient5119);stroke-width:0.3;stroke-dasharray:none;stop-color:#000000"
+             x="269.09348"
+             y="106.57068"
+             id="text1213-3-6"><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Bold';stroke:url(#linearGradient5119);stroke-width:0.3;stroke-dasharray:none"
+               x="269.09348"
+               y="106.57068"
+               id="tspan1221-4-7"><tspan
+   style="stroke:url(#linearGradient5119);stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan5121">getRecords</tspan>(metapop)</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g1075"
+         transform="translate(-47.548386,-12.710774)"
+         style="filter:url(#filter4852)">
+        <rect
+           style="font-variation-settings:normal;opacity:1;fill:#cfe6f7;fill-opacity:1;stroke:#8dc4ec;stroke-width:0.900001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="rect4795"
+           width="181.27603"
+           height="35.155041"
+           x="161.78017"
+           y="34.064518" />
+        <g
+           id="g5062"
+           transform="translate(-4.2580645,-13.483871)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.20888px;line-height:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Bold';text-align:start;text-decoration-color:#000000;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stop-color:#000000"
+             x="172.38332"
+             y="58.172291"
+             id="text290"><tspan
+               sodipodi:role="line"
+               id="tspan288"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none"
+               x="172.38332"
+               y="58.172291"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Semi-Condensed';stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan5057">setGenome</tspan>(listHapLoci, listDipLoci)</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.7611px;line-height:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Bold';text-align:start;text-decoration-color:#000000;text-anchor:start;white-space:pre;inline-size:236.075;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375;stroke-dasharray:none;stop-color:#000000"
+           x="166.97762"
+           y="78.847939"
+           id="text294"
+           transform="matrix(0.8,0,0,0.8,34.827417,-8.7272551)"><tspan
+             x="166.97762"
+             y="78.847939"
+             id="tspan1868"><tspan
+   style="stroke:#000000"
+   id="tspan1866">setMutationMatrix</tspan>(genomeObj, mutHapLoci, 
+</tspan><tspan
+             x="166.97762"
+             y="88.549314"
+             id="tspan1870">                  mutDipLoci)</tspan></text>
+      </g>
+      <g
+         id="g5954">
+        <path
+           id="path4769"
+           style="font-variation-settings:normal;fill:#f8ead9;fill-opacity:1;stroke:none;stroke-width:0.899996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="m 20.606728,40.465576 h 20.773488 l -10.386743,9.22579 z"
+           sodipodi:nodetypes="cccc" />
+        <rect
+           style="fill:#f8ead9;fill-opacity:1;stroke:none;stroke-width:0.899993;stroke-opacity:1;stop-color:#000000"
+           id="rect4767"
+           width="117.80645"
+           height="22.303223"
+           x="-27.909754"
+           y="18.394611"
+           ry="0" />
+        <g
+           id="g3033"
+           transform="translate(-51.621646,-43.817906)">
+          <rect
+             style="fill:#e9bc85;fill-opacity:1;stroke:none;stroke-width:0.899999;stroke-opacity:1;stop-color:#000000"
+             id="rect1575"
+             width="137.40764"
+             height="23.739899"
+             x="13.911299"
+             y="41.392483"
+             ry="11.869949" />
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:7.7611px;line-height:normal;font-family:Merriweather;-inkscape-font-specification:'Merriweather Bold';text-align:start;text-decoration-color:#000000;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.899999;stop-color:#000000"
+             x="41.683094"
+             y="55.451061"
+             id="text1265"><tspan
+               sodipodi:role="line"
+               style="stroke-width:0.9"
+               x="41.683094"
+               y="55.451061"
+               id="tspan1267">Defining the genome</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:7.7611px;line-height:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Semi-Condensed';text-align:start;text-decoration-color:#000000;text-anchor:start;white-space:pre;inline-size:193.945;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.542691;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           x="-136.49442"
+           y="100.36355"
+           id="text7105"
+           transform="matrix(0.5528021,0,0,0.5528021,52.970554,-26.055805)"><tspan
+             x="-136.49442"
+             y="100.36355"
+             id="tspan1874"><tspan
+               style="font-stretch:normal;font-family:Merriweather;-inkscape-font-specification:Merriweather"
+               id="tspan1872">Number and names of loci, number and names of </tspan></tspan><tspan
+             x="-136.49442"
+             y="110.14"
+             id="tspan1878"><tspan
+               style="font-stretch:normal;font-family:Merriweather;-inkscape-font-specification:Merriweather"
+               id="tspan1876">alleles for each loci, nuclear and cytoplasmic loci</tspan></tspan></text>
+      </g>
+      <g
+         id="g932"
+         transform="translate(-47.548381,-28.585795)">
+        <rect
+           style="fill:#f8ead9;fill-opacity:1;stroke:none;stroke-width:0.899995;stroke-opacity:1;stop-color:#000000"
+           id="rect2355"
+           width="117.80645"
+           height="33.092216"
+           x="19.638634"
+           y="87.23246"
+           ry="0" />
+        <g
+           id="g3028"
+           transform="translate(-0.24352193,-5.1982572)">
+          <rect
+             style="fill:#e9bc85;fill-opacity:1;stroke:none;stroke-width:0.899999;stroke-opacity:1;stop-color:#000000"
+             id="rect1575-7"
+             width="137.40764"
+             height="23.739899"
+             x="10.081561"
+             y="83.475418"
+             ry="11.869949" />
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:7.7611px;line-height:normal;font-family:Merriweather;-inkscape-font-specification:'Merriweather Bold';text-align:start;text-decoration-color:#000000;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.899999;stop-color:#000000"
+             x="27.139175"
+             y="97.533997"
+             id="text1265-2"><tspan
+               sodipodi:role="line"
+               style="stroke-width:0.9"
+               x="27.139175"
+               y="97.533997"
+               id="tspan1267-5">Defining fitness landscape</tspan></text>
+        </g>
+        <path
+           id="rect3037"
+           style="font-variation-settings:normal;opacity:1;fill:#f8ead9;fill-opacity:1;stroke:none;stroke-width:0.899996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           d="m 68.155114,120.09243 h 20.773488 l -10.386743,9.2258 z"
+           sodipodi:nodetypes="cccc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:7.7611px;line-height:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Semi-Condensed';text-align:start;text-decoration-color:#000000;text-anchor:start;white-space:pre;inline-size:193.945;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.542691;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           x="-136.49442"
+           y="100.36355"
+           id="text7105-1"
+           transform="matrix(0.5528021,0,0,0.5528021,100.57042,54.608166)"><tspan
+             x="-136.49442"
+             y="100.36355"
+             id="tspan1882"><tspan
+               style="font-stretch:normal;font-family:Merriweather;-inkscape-font-specification:Merriweather"
+               id="tspan1880">Fitness associated with alleles and allelic </tspan></tspan><tspan
+             x="-136.49442"
+             y="110.14"
+             id="tspan1886"><tspan
+               style="font-stretch:normal;font-family:Merriweather;-inkscape-font-specification:Merriweather"
+               id="tspan1884">combinations, dominance and epistasis</tspan></tspan></text>
+      </g>
+      <g
+         id="g919"
+         transform="translate(-47.548381,-39.9569)">
+        <rect
+           style="fill:#f8ead9;fill-opacity:1;stroke:none;stroke-width:0.899995;stroke-opacity:1;stop-color:#000000"
+           id="rect4771"
+           width="117.80645"
+           height="33.092216"
+           x="19.638634"
+           y="150.18271"
+           ry="0" />
+        <g
+           id="g3023"
+           transform="translate(-1.2471583,-2.502376)">
+          <rect
+             style="fill:#e9bc85;fill-opacity:1;stroke:none;stroke-width:0.899999;stroke-opacity:1;stop-color:#000000"
+             id="rect1575-1"
+             width="137.40764"
+             height="23.739899"
+             x="11.085197"
+             y="143.19171"
+             ry="11.869949" />
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:7.7611px;line-height:normal;font-family:Merriweather;-inkscape-font-specification:'Merriweather Bold';text-align:start;text-decoration-color:#000000;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.899999;stop-color:#000000"
+             x="35.06181"
+             y="157.25029"
+             id="text1265-2-0"><tspan
+               sodipodi:role="line"
+               style="stroke-width:0.9"
+               x="35.06181"
+               y="157.25029"
+               id="tspan1267-5-0">Defining population(s)</tspan></text>
+        </g>
+        <path
+           id="path4773"
+           style="font-variation-settings:normal;opacity:1;fill:#f8ead9;fill-opacity:1;stroke:none;stroke-width:0.899996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           d="m 68.155114,183.04269 h 20.773488 l -10.386743,9.22579 z"
+           sodipodi:nodetypes="cccc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:7.7611px;line-height:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Semi-Condensed';text-align:start;text-decoration-color:#000000;text-anchor:start;white-space:pre;inline-size:193.945;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.542691;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           x="-136.49442"
+           y="100.36355"
+           id="text7105-1-6"
+           transform="matrix(0.5528021,0,0,0.5528021,100.50606,117.02034)"><tspan
+             x="-136.49442"
+             y="100.36355"
+             id="tspan1890"><tspan
+               style="font-stretch:normal;font-family:Merriweather;-inkscape-font-specification:Merriweather"
+               id="tspan1888">Population size, reproductive system, genome and </tspan></tspan><tspan
+             x="-136.49442"
+             y="110.14"
+             id="tspan1894"><tspan
+               style="font-stretch:normal;font-family:Merriweather;-inkscape-font-specification:Merriweather"
+               id="tspan1892">selection</tspan></tspan></text>
+      </g>
+      <g
+         id="g906"
+         transform="translate(-47.548381,-50.789929)">
+        <rect
+           style="fill:#f8ead9;fill-opacity:1;stroke:none;stroke-width:0.899995;stroke-opacity:1;stop-color:#000000"
+           id="rect4775"
+           width="117.80645"
+           height="33.092216"
+           x="19.638634"
+           y="207.89175"
+           ry="0" />
+        <g
+           id="g3018"
+           transform="translate(-2.7526133,26.288002)">
+          <rect
+             style="fill:#e9bc85;fill-opacity:1;stroke:none;stroke-width:0.899999;stroke-opacity:1;stop-color:#000000"
+             id="rect1575-3"
+             width="137.40764"
+             height="23.739899"
+             x="12.590652"
+             y="176.81351"
+             ry="11.869949" />
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:7.7611px;line-height:normal;font-family:Merriweather;-inkscape-font-specification:'Merriweather Bold';text-align:start;text-decoration-color:#000000;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.899999;stop-color:#000000"
+             x="24.801432"
+             y="190.87209"
+             id="text1265-2-0-0"><tspan
+               sodipodi:role="line"
+               style="stroke-width:0.9"
+               x="24.801432"
+               y="190.87209"
+               id="tspan1267-5-0-5">Defining the metapopulation</tspan></text>
+        </g>
+        <path
+           id="path4777"
+           style="font-variation-settings:normal;opacity:1;fill:#f8ead9;fill-opacity:1;stroke:none;stroke-width:0.899996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           d="m 68.155114,240.75171 h 20.773488 l -10.386743,9.2258 z"
+           sodipodi:nodetypes="cccc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:7.7611px;line-height:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Semi-Condensed';text-align:start;text-decoration-color:#000000;text-anchor:start;white-space:pre;inline-size:193.945;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.542691;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           x="-136.49442"
+           y="100.36355"
+           id="text7105-1-6-9"
+           transform="matrix(0.5528021,0,0,0.5528021,100.50606,179.47113)"><tspan
+             x="-136.49442"
+             y="100.36355"
+             id="tspan1898"><tspan
+               style="font-stretch:normal;font-family:Merriweather;-inkscape-font-specification:Merriweather"
+               id="tspan1896">List of populations, migration matrix</tspan></tspan></text>
+      </g>
+      <g
+         id="g896"
+         transform="translate(-47.548381,-66.326103)">
+        <rect
+           style="fill:#f8ead9;fill-opacity:1;stroke:none;stroke-width:0.899995;stroke-opacity:1;stop-color:#000000"
+           id="rect4779"
+           width="117.806"
+           height="33.092216"
+           x="19.638859"
+           y="275.00699"
+           ry="0" />
+        <g
+           id="g3013"
+           transform="translate(-6.2653352,67.623837)">
+          <rect
+             style="fill:#e9bc85;fill-opacity:1;stroke:none;stroke-width:0.899999;stroke-opacity:1;stop-color:#000000"
+             id="rect1575-4"
+             width="137.40764"
+             height="23.739899"
+             x="16.103374"
+             y="197.88985"
+             ry="11.869949" />
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:7.7611px;line-height:normal;font-family:Merriweather;-inkscape-font-specification:'Merriweather Bold';text-align:start;text-decoration-color:#000000;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.899999;stop-color:#000000"
+             x="63.017899"
+             y="211.8941"
+             id="text1265-2-0-0-2"><tspan
+               sodipodi:role="line"
+               style="stroke-width:0.9"
+               x="63.017899"
+               y="211.8941"
+               id="tspan1267-5-0-5-9">Simulating</tspan></text>
+        </g>
+        <path
+           id="path4781"
+           style="font-variation-settings:normal;opacity:1;fill:#f8ead9;fill-opacity:1;stroke:none;stroke-width:0.899996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           d="m 68.155114,307.86704 h 20.773488 l -10.386743,9.22579 z"
+           sodipodi:nodetypes="cccc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:7.7611px;line-height:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Semi-Condensed';text-align:start;text-decoration-color:#000000;text-anchor:start;white-space:pre;inline-size:203.331;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.542691;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           x="-136.49442"
+           y="100.36355"
+           id="text7105-1-6-9-5"
+           transform="matrix(0.5528021,0,0,0.5528021,100.49748,241.88331)"><tspan
+             x="-136.49442"
+             y="100.36355"
+             id="tspan1902"><tspan
+               style="font-stretch:normal;font-family:Merriweather;-inkscape-font-specification:Merriweather"
+               id="tspan1900">Number of generations, stop conditions, recording, </tspan></tspan><tspan
+             x="-136.49442"
+             y="110.14"
+             id="tspan1906"><tspan
+               style="font-stretch:normal;font-family:Merriweather;-inkscape-font-specification:Merriweather"
+               id="tspan1904">seed specification, number of simulation</tspan></tspan></text>
+      </g>
+      <g
+         id="g885"
+         transform="translate(-47.548381,-77.159132)">
+        <rect
+           style="fill:#f8ead9;fill-opacity:1;stroke:none;stroke-width:0.899995;stroke-opacity:1;stop-color:#000000"
+           id="rect4783"
+           width="117.80645"
+           height="33.092216"
+           x="19.638634"
+           y="332.71609"
+           ry="0" />
+        <g
+           id="g3008"
+           transform="translate(-1.2471582,110.96692)">
+          <rect
+             style="fill:#e9bc85;fill-opacity:1;stroke:none;stroke-width:0.899999;stroke-opacity:1;stop-color:#000000"
+             id="rect1575-78"
+             width="137.40764"
+             height="23.739899"
+             x="11.085197"
+             y="216.95894"
+             ry="11.869949" />
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:7.7611px;line-height:normal;font-family:Merriweather;-inkscape-font-specification:'Merriweather Bold';text-align:start;text-decoration-color:#000000;text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.899999;stop-color:#000000"
+             x="37.758778"
+             y="230.9632"
+             id="text1265-2-0-0-2-9"><tspan
+               sodipodi:role="line"
+               style="stroke-width:0.9"
+               x="37.758778"
+               y="230.9632"
+               id="tspan1267-5-0-5-9-6">Extracting the results</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:7.7611px;line-height:normal;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Semi-Condensed';text-align:start;text-decoration-color:#000000;text-anchor:start;white-space:pre;inline-size:193.945;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.542691;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           x="-136.49442"
+           y="100.36355"
+           id="text7105-1-6-9-5-9"
+           transform="matrix(0.5528021,0,0,0.5528021,100.56613,304.25687)"><tspan
+             x="-136.49442"
+             y="100.36355"
+             id="tspan1910"><tspan
+               style="font-stretch:normal;font-family:Merriweather;-inkscape-font-specification:Merriweather"
+               id="tspan1908">Obtaining results and records</tspan></tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
