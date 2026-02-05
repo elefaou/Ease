@@ -79,7 +79,7 @@ print(pop)
 #>               in details 
 #> Population 'ExamplePop' of 1000 dioecious individuals
 #> There is no demography. 
-#> The initial genotypes frequency are:  
+#> The initial genotype frequencies are:  
 #> A/A||B A/a||B a/a||B A/A||b A/a||b a/a||b 
 #>      1      0      0      0      0      0 
 #> Selection:  
