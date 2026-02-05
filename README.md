@@ -1,13 +1,12 @@
 # Ease <img src="figures/logo.png" align="right" height="139" alt="" />
 
 <!-- badges: start -->
-![Static Badge](https://img.shields.io/badge/build-passing-brightgreen)
+[![CRAN status](https://www.r-pkg.org/badges/version/Ease)](https://CRAN.R-project.org/package=Ease)
+[![CRAN RStudio mirror downloads](https://cranlogs.r-pkg.org/badges/grand-total/Ease)](https://r-pkg.org/pkg/Ease)
 <!-- badges: end -->
 
 
-**Ease** is an R package for population-genetic and quantitative-genetic simulations and analyses, with a focus on the evolutionary dynamics of genetic variance under selection, drift, mutation, and recombination.
-
-The package is designed to support both theoretical and empirical evolutionary biology, with an emphasis on transparent, reproducible workflows.
+**Ease** is an R package for population genetic simulations, with a focus on the evolutionary dynamics of a few loci under selection, drift, mutation, and recombination.
 
 ---
 
