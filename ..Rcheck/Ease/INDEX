@@ -1,0 +1,93 @@
+Genome-class            'Genome' class
+IDgenomeGeneration      Genome identifier
+IDgenotypeGeneration    Genotype identifier
+IDhaplotypeGeneration   Haplotype identifier
+MATRIX_PRODUCT          Matrix product
+METAPOP_SIMULATION      Simulation of a metapopulation
+Metapopulation-class    Metapopulation
+MutationMatrix-class    Mutation matrix
+Population-class        Population
+Selection-class         'Selection' class
+alleleFreqMatGeneration
+                        Generation of the matrix for calculating
+                        allelic frequencies
+areThereHomoz           Are there any allelic combinations including
+                        homozygosity
+catn                    Concatenate, print and line break
+changeInitGenoFreq      Changing the initial genotype frequencies of a
+                        population
+check.genome            The validity check for the 'Genome' class
+check.metapopulation    The validity check for the 'Metapopulation'
+                        class
+check.mutationMatrix    The validity check associated with the
+                        'MutationMatrix' class
+check.population        The validity check for the 'Population' class
+check.selection         The validity check for the 'Selection' class
+extractAlleleComb       Extract the allele combination
+genotyping              Genotyping
+getCustomOutput         Getting the custom output
+getRecords              Getting the simulation results
+getResults              Getting the simulation results
+haploCrossMatrix        Haplotype crossing matrix generation
+haplotyping             Haplotyping
+initialize,Genome-method
+                        Initialize method for the 'Genome' class
+initialize,Metapopulation-method
+                        Initialize method for the 'Metapopulation'
+                        class
+initialize,MutationMatrix-method
+                        Initialize method for the 'MutationMatrix'
+                        class
+initialize,Population-method
+                        Initialize method for the 'Population' class
+initialize,Selection-method
+                        Initialize method for the 'Selection' class
+is.correct.transition.matrix
+                        Test if a matrix is a correct transition matrix
+is.default.matrix       Test if a matrix is a default matrix
+is.probability.matrix   Test if a matrix is of probability
+isAffected              Is this haplo/geno-type affected ?
+isHaploSelectFormula    Are there any allelic combinations including
+                        homozygosity
+listing                 Listing for display
+meiosisMatrix           Meiosis matrix generation
+mutMatFriendly          Individual mutation definition to allelic
+                        mutation matrices
+mutMatRates             Mutation matrix from rates
+mutation                Definition of a mutation
+outFunct                Custom output function
+print,Genome-method     Print method for the 'Genome' class
+print,Metapopulation-method
+                        Print method for the 'Metapopulation' class
+print,MutationMatrix-method
+                        Print method for the 'MutationMatrix' class
+print,Population-method
+                        Print method for the 'Population' class
+print,Selection-method
+                        Print method for the 'Selection' class
+recombinationMatrix     Recombination matrix generation
+rowResultGen            Processing a result (or record) list
+selectFormIntoVect      Conversion of selection formulas
+selectInputTreatment    Treatment of selection formulas
+selection.form.treatment
+                        Treatment of a selection formula
+setGenome               Setting the genome
+setMetapopulation       Setting a metapopulation
+setMutationMatrix       Setting the mutation matrix
+setPopulation           Setting a population
+setSelectNeutral        Setting the selection
+setSelectOnGametes      Setting the selection on gametes
+setSelectOnGametesProd
+                        Setting the selection on gamete production
+setSelectOnInds         Setting the selection on individuals
+show,Genome-method      Show method for the 'Genome' class
+show,Metapopulation-method
+                        Show method for the 'Metapopulation' class
+show,MutationMatrix-method
+                        Show method for the 'MutationMatrix' class
+show,Population-method
+                        Show method for the 'Population' class
+show,Selection-method   Show method for the 'Selection' class
+simulate,Metapopulation-method
+                        Simulate method for the 'Metapopulation' class
+whichHomoz              Which alleles are homozygous in the input?

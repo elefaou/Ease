@@ -1,0 +1,10 @@
+Hmm ... looks like a package
+Converting parsed Rd's to LaTeX ......
+Creating pdf output from LaTeX ...
+Warning in system(paste(shQuote(texi2dvi), "--version"), intern = TRUE) :
+  running command '"C:\Users\elefaou\AppData\Local\Programs\MiKTeX\miktex\bin\x64\texify.exe" --version' had status 309
+Warning in system(paste(shQuote(texi2dvi), if (quiet) "--quiet" else "",  :
+  running command '"C:\Users\elefaou\AppData\Local\Programs\MiKTeX\miktex\bin\x64\texify.exe"  --pdf "Rd2.tex" ' had status 309
+Saving output to 'Ease-manual.pdf' ...
+Done
+You may want to clean up by 'rm -Rf C:/Users/elefaou/AppData/Local/Temp/Rtmpam7pOt/Rd2pdf737c4695146d'

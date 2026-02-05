@@ -1,0 +1,15 @@
+* installing *source* package 'Ease' ...
+** using staged installation
+** libs
+make: Nothing to be done for 'all'.
+installing to C:/Users/elefaou/OneDrive/Articles/A06A39~1.EAS/FINALP~1/Ease/RCHECK~1/00LOCK-Ease/00new/Ease/libs/x64
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (Ease)

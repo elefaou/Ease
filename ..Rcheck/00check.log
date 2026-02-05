@@ -1,0 +1,140 @@
+* using log directory 'C:/Users/elefaou/OneDrive/Articles/A0. Ease package/FinalPackage/Ease/..Rcheck'
+* using R version 4.2.2 (2022-10-31 ucrt)
+* using platform: x86_64-w64-mingw32 (64-bit)
+* using session charset: UTF-8
+* checking for file './DESCRIPTION' ... OK
+* checking extension type ... Package
+* this is package 'Ease' version '0.1.2'
+* package encoding: UTF-8
+* checking package namespace information ... OK
+* checking package dependencies ... OK
+* checking if this is a source package ... WARNING
+Subdirectory 'Ease/src' contains apparent object files/libraries
+  Ease.dll Ease_cpp.o RcppExports.o
+Object files/libraries should not be included in a source package.
+* checking if there is a namespace ... OK
+* checking for executable files ... WARNING
+Found the following executable file:
+  src/Ease.dll
+Source packages should not contain undeclared executable files.
+See section 'Package structure' in the 'Writing R Extensions' manual.
+* checking for hidden files and directories ... NOTE
+Found the following hidden files and directories:
+  .RData
+  .Rhistory
+  .gitignore
+  src/.gitignore
+  vignettes/.Rhistory
+  vignettes/.gitignore
+  ..Rcheck
+  .Rproj.user
+These were most likely included in error. See section 'Package
+structure' in the 'Writing R Extensions' manual.
+* checking for portable file names ... WARNING
+Found the following files with non-portable file names:
+  docs/deps/_JetBrains Mono-0.4.0
+  docs/deps/_Roboto Slab-0.4.0
+These are not fully portable file names.
+See section 'Package structure' in the 'Writing R Extensions' manual.
+* checking whether package 'Ease' can be installed ... OK
+* checking installed package size ... OK
+* checking package directory ... OK
+* checking DESCRIPTION meta-information ... NOTE
+Checking should be performed on sources prepared by 'R CMD build'.
+* checking top-level files ... OK
+* checking for left-over files ... OK
+* checking index information ... OK
+* checking package subdirectories ... WARNING
+Found the following directory with the name of a check directory:
+  ./..Rcheck
+Most likely, these were included erroneously.
+* checking R files for non-ASCII characters ... OK
+* checking R files for syntax errors ... OK
+* checking whether the package can be loaded ... OK
+* checking whether the package can be loaded with stated dependencies ... OK
+* checking whether the package can be unloaded cleanly ... OK
+* checking whether the namespace can be loaded with stated dependencies ... OK
+* checking whether the namespace can be unloaded cleanly ... OK
+* checking loading without being on the library search path ... OK
+* checking dependencies in R code ... NOTE
+Dépendance d'espace de nom dans le champ Imports non importé depuis : 'RcppProgress'
+  All declared Imports should be used.
+* checking S3 generic/method consistency ... OK
+* checking replacement functions ... OK
+* checking foreign function calls ... OK
+* checking R code for possible problems ... OK
+* checking Rd files ... OK
+* checking Rd metadata ... OK
+* checking Rd cross-references ... OK
+* checking for missing documentation entries ... OK
+* checking for code/documentation mismatches ... OK
+* checking Rd \usage sections ... WARNING
+Arguments non documentés dans la documentation de l'objet 'changeInitGenoFreq'
+  'population'
+Arguments documentés non repris dans \usage pour la documentation de l'objet 'changeInitGenoFreq' :
+  'populations'
+
+Functions with \usage entries need to have the appropriate \alias
+entries, and all their arguments documented.
+The \usage entries must correspond to syntactically valid R code.
+See chapter 'Writing R documentation files' in the 'Writing R
+Extensions' manual.
+* checking Rd contents ... OK
+* checking for unstated dependencies in examples ... OK
+* checking LazyData ... NOTE
+  'LazyData' is specified without a 'data' directory
+* checking line endings in C/C++/Fortran sources/headers ... NOTE
+Found the following sources/headers with CR or CRLF line endings:
+  src/Ease_cpp.cpp
+  src/RcppExports.cpp
+Some Unix compilers require LF line endings.
+* checking compiled code ... OK
+* checking files in 'vignettes' ... WARNING
+Files in the 'vignettes' directory but no files in 'inst/doc':
+  'use-the-Ease-package.R', 'use-the-Ease-package.Rmd',
+    'use-the-Ease-package.html'
+* checking examples ... ERROR
+Running examples in 'Ease-Ex.R' failed
+The error most likely occurred in:
+
+> ### Name: changeInitGenoFreq
+> ### Title: Changing the initial genotype frequencies of a population
+> ### Aliases: changeInitGenoFreq
+> 
+> ### ** Examples
+> 
+> # Definition of a population in its simplest form:
+> DL <- list(dl = c("A", "a"))
+> HL <- list(hl = c("B", "b"))
+> mutations <- list(
++   mutation(from = "a", to = "A", rate = 1e-3),
++   mutation(from = "b", to = "B", rate = 1e-3)
++ )
+> genomeObj <- setGenome(listHapLoci = HL, listDipLoci = DL)
+> pop <- setPopulation(
++   name = "A",
++   size = 1000,
++   dioecy = TRUE,
++   genomeObj = genomeObj,
++   selectionObj = setSelectNeutral(genomeObj),
++   mutMatrixObj = setMutationMatrix(genomeObj, mutations = mutations)
++ )
+> pop = changeinitGenoFreq(pop, c(0, 0, 0, 0, 0, 0, 0, 0, 0, 1))
+Error in changeinitGenoFreq(pop, c(0, 0, 0, 0, 0, 0, 0, 0, 0, 1)) : 
+  could not find function "changeinitGenoFreq"
+Execution halted
+* checking for unstated dependencies in 'tests' ... OK
+* checking tests ... OK
+  Running 'testthat.R'
+* checking for unstated dependencies in vignettes ... OK
+* checking package vignettes in 'inst/doc' ... WARNING
+Directory 'inst/doc' does not exist.
+Package vignette without corresponding single PDF/HTML:
+   'use-the-Ease-package.Rmd'
+
+* checking running R code from vignettes ... OK
+  'use-the-Ease-package.Rmd' using 'UTF-8'... OK
+* checking re-building of vignette outputs ... OK
+* checking PDF version of manual ... OK
+* DONE
+Status: 1 ERROR, 7 WARNINGs, 5 NOTEs

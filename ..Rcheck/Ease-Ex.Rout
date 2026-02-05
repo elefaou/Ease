@@ -1,0 +1,59 @@
+
+R version 4.2.2 (2022-10-31 ucrt) -- "Innocent and Trusting"
+Copyright (C) 2022 The R Foundation for Statistical Computing
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> pkgname <- "Ease"
+> source(file.path(R.home("share"), "R", "examples-header.R"))
+> options(warn = 1)
+> options(pager = "console")
+> library('Ease')
+> 
+> base::assign(".oldSearch", base::search(), pos = 'CheckExEnv')
+> base::assign(".old_wd", base::getwd(), pos = 'CheckExEnv')
+> cleanEx()
+> nameEx("changeInitGenoFreq")
+> ### * changeInitGenoFreq
+> 
+> flush(stderr()); flush(stdout())
+> 
+> ### Name: changeInitGenoFreq
+> ### Title: Changing the initial genotype frequencies of a population
+> ### Aliases: changeInitGenoFreq
+> 
+> ### ** Examples
+> 
+> # Definition of a population in its simplest form:
+> DL <- list(dl = c("A", "a"))
+> HL <- list(hl = c("B", "b"))
+> mutations <- list(
++   mutation(from = "a", to = "A", rate = 1e-3),
++   mutation(from = "b", to = "B", rate = 1e-3)
++ )
+> genomeObj <- setGenome(listHapLoci = HL, listDipLoci = DL)
+> pop <- setPopulation(
++   name = "A",
++   size = 1000,
++   dioecy = TRUE,
++   genomeObj = genomeObj,
++   selectionObj = setSelectNeutral(genomeObj),
++   mutMatrixObj = setMutationMatrix(genomeObj, mutations = mutations)
++ )
+> pop = changeinitGenoFreq(pop, c(0, 0, 0, 0, 0, 0, 0, 0, 0, 1))
+Error in changeinitGenoFreq(pop, c(0, 0, 0, 0, 0, 0, 0, 0, 0, 1)) : 
+  could not find function "changeinitGenoFreq"
+Execution halted

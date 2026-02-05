@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head><title>R: Simulating Explicit Population Genetics Models</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<link rel="stylesheet" type="text/css" href="R.css" />
+</head><body><div class="container">
+<h1> Simulating Explicit Population Genetics Models
+<img class="toplogo" src="../../../doc/html/Rlogo.svg" alt="[R logo]" />
+</h1>
+<hr/>
+<div style="text-align: center;">
+<a href="../../../doc/html/packages.html"><img class="arrow" src="../../../doc/html/left.jpg" alt="[Up]" /></a>
+<a href="../../../doc/html/index.html"><img class="arrow" src="../../../doc/html/up.jpg" alt="[Top]" /></a>
+</div><h2>Documentation for package &lsquo;Ease&rsquo; version 0.1.2</h2>
+
+<ul><li><a href="../DESCRIPTION">DESCRIPTION file</a>.</li>
+</ul>
+
+<h2>Help Pages</h2>
+
+
+<table style="width: 100%;">
+<tr><td style="width: 25%;"><a href="alleleFreqMatGeneration.html">alleleFreqMatGeneration</a></td>
+<td>Generation of the matrix for calculating allelic frequencies</td></tr>
+<tr><td style="width: 25%;"><a href="areThereHomoz.html">areThereHomoz</a></td>
+<td>Are there any allelic combinations including homozygosity</td></tr>
+<tr><td style="width: 25%;"><a href="catn.html">catn</a></td>
+<td>Concatenate, print and line break</td></tr>
+<tr><td style="width: 25%;"><a href="changeInitGenoFreq.html">changeInitGenoFreq</a></td>
+<td>Changing the initial genotype frequencies of a population</td></tr>
+<tr><td style="width: 25%;"><a href="check.genome.html">check.genome</a></td>
+<td>The validity check for the 'Genome' class</td></tr>
+<tr><td style="width: 25%;"><a href="check.metapopulation.html">check.metapopulation</a></td>
+<td>The validity check for the 'Metapopulation' class</td></tr>
+<tr><td style="width: 25%;"><a href="check.mutationMatrix.html">check.mutationMatrix</a></td>
+<td>The validity check associated with the 'MutationMatrix' class</td></tr>
+<tr><td style="width: 25%;"><a href="check.population.html">check.population</a></td>
+<td>The validity check for the 'Population' class</td></tr>
+<tr><td style="width: 25%;"><a href="check.selection.html">check.selection</a></td>
+<td>The validity check for the 'Selection' class</td></tr>
+<tr><td style="width: 25%;"><a href="extractAlleleComb.html">extractAlleleComb</a></td>
+<td>Extract the allele combination</td></tr>
+<tr><td style="width: 25%;"><a href="Genome-class.html">Genome-class</a></td>
+<td>'Genome' class</td></tr>
+<tr><td style="width: 25%;"><a href="genotyping.html">genotyping</a></td>
+<td>Genotyping</td></tr>
+<tr><td style="width: 25%;"><a href="getCustomOutput.html">getCustomOutput</a></td>
+<td>Getting the custom output</td></tr>
+<tr><td style="width: 25%;"><a href="getRecords.html">getRecords</a></td>
+<td>Getting the simulation results</td></tr>
+<tr><td style="width: 25%;"><a href="getResults.html">getResults</a></td>
+<td>Getting the simulation results</td></tr>
+<tr><td style="width: 25%;"><a href="haploCrossMatrix.html">haploCrossMatrix</a></td>
+<td>Haplotype crossing matrix generation</td></tr>
+<tr><td style="width: 25%;"><a href="haplotyping.html">haplotyping</a></td>
+<td>Haplotyping</td></tr>
+<tr><td style="width: 25%;"><a href="IDgenomeGeneration.html">IDgenomeGeneration</a></td>
+<td>Genome identifier</td></tr>
+<tr><td style="width: 25%;"><a href="IDgenotypeGeneration.html">IDgenotypeGeneration</a></td>
+<td>Genotype identifier</td></tr>
+<tr><td style="width: 25%;"><a href="IDhaplotypeGeneration.html">IDhaplotypeGeneration</a></td>
+<td>Haplotype identifier</td></tr>
+<tr><td style="width: 25%;"><a href="initialize-Genome-method.html">initialize-method</a></td>
+<td>Initialize method for the 'Genome' class</td></tr>
+<tr><td style="width: 25%;"><a href="initialize-Metapopulation-method.html">initialize-method</a></td>
+<td>Initialize method for the 'Metapopulation' class</td></tr>
+<tr><td style="width: 25%;"><a href="initialize-MutationMatrix-method.html">initialize-method</a></td>
+<td>Initialize method for the 'MutationMatrix' class</td></tr>
+<tr><td style="width: 25%;"><a href="initialize-Population-method.html">initialize-method</a></td>
+<td>Initialize method for the 'Population' class</td></tr>
+<tr><td style="width: 25%;"><a href="initialize-Selection-method.html">initialize-method</a></td>
+<td>Initialize method for the 'Selection' class</td></tr>
+<tr><td style="width: 25%;"><a href="is.correct.transition.matrix.html">is.correct.transition.matrix</a></td>
+<td>Test if a matrix is a correct transition matrix</td></tr>
+<tr><td style="width: 25%;"><a href="is.default.matrix.html">is.default.matrix</a></td>
+<td>Test if a matrix is a default matrix</td></tr>
+<tr><td style="width: 25%;"><a href="is.probability.matrix.html">is.probability.matrix</a></td>
+<td>Test if a matrix is of probability</td></tr>
+<tr><td style="width: 25%;"><a href="isAffected.html">isAffected</a></td>
+<td>Is this haplo/geno-type affected ?</td></tr>
+<tr><td style="width: 25%;"><a href="isHaploSelectFormula.html">isHaploSelectFormula</a></td>
+<td>Are there any allelic combinations including homozygosity</td></tr>
+<tr><td style="width: 25%;"><a href="listing.html">listing</a></td>
+<td>Listing for display</td></tr>
+<tr><td style="width: 25%;"><a href="MATRIX_PRODUCT.html">MATRIX_PRODUCT</a></td>
+<td>Matrix product</td></tr>
+<tr><td style="width: 25%;"><a href="meiosisMatrix.html">meiosisMatrix</a></td>
+<td>Meiosis matrix generation</td></tr>
+<tr><td style="width: 25%;"><a href="Metapopulation-class.html">Metapopulation-class</a></td>
+<td>Metapopulation</td></tr>
+<tr><td style="width: 25%;"><a href="METAPOP_SIMULATION.html">METAPOP_SIMULATION</a></td>
+<td>Simulation of a metapopulation</td></tr>
+<tr><td style="width: 25%;"><a href="mutation.html">mutation</a></td>
+<td>Definition of a mutation</td></tr>
+<tr><td style="width: 25%;"><a href="MutationMatrix-class.html">MutationMatrix-class</a></td>
+<td>Mutation matrix</td></tr>
+<tr><td style="width: 25%;"><a href="mutMatFriendly.html">mutMatFriendly</a></td>
+<td>Individual mutation definition to allelic mutation matrices</td></tr>
+<tr><td style="width: 25%;"><a href="mutMatRates.html">mutMatRates</a></td>
+<td>Mutation matrix from rates</td></tr>
+<tr><td style="width: 25%;"><a href="outFunct.html">outFunct</a></td>
+<td>Custom output function</td></tr>
+<tr><td style="width: 25%;"><a href="Population-class.html">Population-class</a></td>
+<td>Population</td></tr>
+<tr><td style="width: 25%;"><a href="print-Genome-method.html">print-method</a></td>
+<td>Print method for the 'Genome' class</td></tr>
+<tr><td style="width: 25%;"><a href="print-Metapopulation-method.html">print-method</a></td>
+<td>Print method for the 'Metapopulation' class</td></tr>
+<tr><td style="width: 25%;"><a href="print-MutationMatrix-method.html">print-method</a></td>
+<td>Print method for the 'MutationMatrix' class</td></tr>
+<tr><td style="width: 25%;"><a href="print-Population-method.html">print-method</a></td>
+<td>Print method for the 'Population' class</td></tr>
+<tr><td style="width: 25%;"><a href="print-Selection-method.html">print-method</a></td>
+<td>Print method for the 'Selection' class</td></tr>
+<tr><td style="width: 25%;"><a href="recombinationMatrix.html">recombinationMatrix</a></td>
+<td>Recombination matrix generation</td></tr>
+<tr><td style="width: 25%;"><a href="rowResultGen.html">rowResultGen</a></td>
+<td>Processing a result (or record) list</td></tr>
+<tr><td style="width: 25%;"><a href="selectFormIntoVect.html">selectFormIntoVect</a></td>
+<td>Conversion of selection formulas</td></tr>
+<tr><td style="width: 25%;"><a href="selectInputTreatment.html">selectInputTreatment</a></td>
+<td>Treatment of selection formulas</td></tr>
+<tr><td style="width: 25%;"><a href="Selection-class.html">Selection-class</a></td>
+<td>'Selection' class</td></tr>
+<tr><td style="width: 25%;"><a href="selection.form.treatment.html">selection.form.treatment</a></td>
+<td>Treatment of a selection formula</td></tr>
+<tr><td style="width: 25%;"><a href="setGenome.html">setGenome</a></td>
+<td>Setting the genome</td></tr>
+<tr><td style="width: 25%;"><a href="setMetapopulation.html">setMetapopulation</a></td>
+<td>Setting a metapopulation</td></tr>
+<tr><td style="width: 25%;"><a href="setMutationMatrix.html">setMutationMatrix</a></td>
+<td>Setting the mutation matrix</td></tr>
+<tr><td style="width: 25%;"><a href="setPopulation.html">setPopulation</a></td>
+<td>Setting a population</td></tr>
+<tr><td style="width: 25%;"><a href="setSelectNeutral.html">setSelectNeutral</a></td>
+<td>Setting the selection</td></tr>
+<tr><td style="width: 25%;"><a href="setSelectOnGametes.html">setSelectOnGametes</a></td>
+<td>Setting the selection on gametes</td></tr>
+<tr><td style="width: 25%;"><a href="setSelectOnGametesProd.html">setSelectOnGametesProd</a></td>
+<td>Setting the selection on gamete production</td></tr>
+<tr><td style="width: 25%;"><a href="setSelectOnInds.html">setSelectOnInds</a></td>
+<td>Setting the selection on individuals</td></tr>
+<tr><td style="width: 25%;"><a href="show-Genome-method.html">show-method</a></td>
+<td>Show method for the 'Genome' class</td></tr>
+<tr><td style="width: 25%;"><a href="show-Metapopulation-method.html">show-method</a></td>
+<td>Show method for the 'Metapopulation' class</td></tr>
+<tr><td style="width: 25%;"><a href="show-MutationMatrix-method.html">show-method</a></td>
+<td>Show method for the 'MutationMatrix' class</td></tr>
+<tr><td style="width: 25%;"><a href="show-Population-method.html">show-method</a></td>
+<td>Show method for the 'Population' class</td></tr>
+<tr><td style="width: 25%;"><a href="show-Selection-method.html">show-method</a></td>
+<td>Show method for the 'Selection' class</td></tr>
+<tr><td style="width: 25%;"><a href="simulate-Metapopulation-method.html">simulate-method</a></td>
+<td>Simulate method for the 'Metapopulation' class</td></tr>
+<tr><td style="width: 25%;"><a href="whichHomoz.html">whichHomoz</a></td>
+<td>Which alleles are homozygous in the input?</td></tr>
+</table>
+</div></body></html>
