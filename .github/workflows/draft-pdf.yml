@@ -27,4 +27,3 @@ jobs:
       with:
         message: '(auto) Paper PDF Draft'
         add: 'paper/*.pdf'
-
