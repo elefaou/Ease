@@ -1,11 +1,5 @@
 ---
 title: 'Ease: An R Package for Efficient Population Genetics Simulations'
-tags: [Population genetics, Biology, Simulations]
-
----
-
----
-title: 'Ease: An R Package for Efficient Population Genetics Simulations'
 tags:
   - Biology
   - Population genetics
