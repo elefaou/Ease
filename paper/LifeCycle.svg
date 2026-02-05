@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.74564396"
-     inkscape:cx="645.07999"
-     inkscape:cy="193.12166"
+     inkscape:zoom="0.5272499"
+     inkscape:cx="827.88067"
+     inkscape:cy="752.96363"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -567,16 +567,16 @@
        transform="rotate(-90,-12.530339,11.542137)"><tspan
          x="-6.9194641"
          y="13.060643"
-         id="tspan1009"><tspan
+         id="tspan1550"><tspan
    style="font-weight:bold;-inkscape-font-specification:'Merriweather Bold';fill:#000000"
-   id="tspan1007">Preliminary</tspan><tspan
+   id="tspan1548">Preliminary</tspan><tspan
    y="13.060643"
-   id="tspan1011"> </tspan></tspan><tspan
+   id="tspan1552"> </tspan></tspan><tspan
          x="-6.9194641"
          y="21.795643"
-         id="tspan1015"><tspan
+         id="tspan1556"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Merriweather Bold';fill:#000000"
-           id="tspan1013">calculations</tspan></tspan></text>
+           id="tspan1554">calculations</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.91252px;line-height:normal;font-family:Merriweather;-inkscape-font-specification:Merriweather;text-align:center;text-decoration-color:#000000;text-anchor:middle;white-space:pre;inline-size:102.385;display:inline;fill:#aece89;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -586,16 +586,16 @@
        transform="translate(55.186256,1.3416798)"><tspan
          x="9.2816277"
          y="12.053375"
-         id="tspan1019"><tspan
+         id="tspan1560"><tspan
    style="font-weight:bold;-inkscape-font-specification:'Merriweather Bold';fill:#000000"
-   id="tspan1017">Calculation of recombination,</tspan><tspan
+   id="tspan1558">Calculation of recombination,</tspan><tspan
    y="12.053375"
-   id="tspan1021"> </tspan></tspan><tspan
+   id="tspan1562"> </tspan></tspan><tspan
          x="9.2816277"
          y="19.444025"
-         id="tspan1025"><tspan
+         id="tspan1566"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Merriweather Bold';fill:#000000"
-           id="tspan1023">mutation and meiosis matrices</tspan></tspan></text>
+           id="tspan1564">mutation and meiosis matrices</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.91252px;line-height:normal;font-family:Merriweather;-inkscape-font-specification:Merriweather;text-align:center;text-decoration-color:#000000;text-anchor:middle;white-space:pre;fill:#aece89;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
@@ -1779,7 +1779,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#bcbcbc;fill-opacity:1;stroke:#000000;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 9.7721863,142.2136 H 293.85309"
+       d="M -4.0665234,142.2136 H 293.85309"
        id="path16994-24-4-3-7"
        sodipodi:nodetypes="cc" />
     <text
@@ -1956,18 +1956,9 @@
        d="m 293.85309,116.78906 a 12.419354,12.712278 0 0 1 12.41935,12.71228 12.419354,12.712278 0 0 1 -12.41935,12.71228"
        sodipodi:open="true" />
     <path
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.899999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:fill markers stroke;stop-color:#000000"
-       id="path19635-3"
-       sodipodi:type="arc"
-       sodipodi:cx="-9.7721863"
-       sodipodi:cy="-165.57938"
-       sodipodi:rx="23.199976"
-       sodipodi:ry="23.365765"
-       sodipodi:start="4.712389"
-       sodipodi:end="1.5707963"
-       sodipodi:arc-type="arc"
-       d="m -9.7721863,-188.94514 a 23.199976,23.365765 0 0 1 23.1999763,23.36576 23.199976,23.365765 0 0 1 -23.1999763,23.36577"
-       sodipodi:open="true"
-       transform="scale(-1)" />
+       id="path19635-2-6"
+       style="vector-effect:none;fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+       d="m -4.0665234,188.94512 c -6.8590206,0 -12.4193546,-5.69148 -12.4193536,-12.71228 v -21.30696 c -1e-6,-7.0208 5.560333,-12.71228 12.4193536,-12.71228"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>
