@@ -47,7 +47,7 @@ Model implementation is standardised and involves defining the genome, allelic e
 ![Steps for implementing a model with `Ease` and associated functions, from defining the genome and the selective effect of alleles to extracting the results of the model simulation.\label{fig:Process}](EaseDiagram.svg)
 
 In the example below, each individual is represented by a genotype at two diallelic loci. One of these is nuclear with wildtype allele `"A"` and alternative allele `"a"`, and the other is cytoplasmic with wildtype allele `"B"` and alternative allele `"b"`. By default, when defining a population, the first allele named (here the wildtypes `"A"` and `"B"`, see below) is the one that is fixed in the population at the start of the simulation.
-```{r}
+```r
 library(Ease)
 # Definition of a genome with 2 locus, 2 alleles each:
 DL <- list(dl = c("A", "a"))
@@ -55,7 +55,7 @@ HL <- list(hl = c("B", "b"))
 ```
 
 Next, a list of possible mutation events from one allele to another is defined, each associated with a mutation rate, defined as the proportion of copies that will be mutated at each meiosis event. 
-```{r}
+```r
 mutations <- list(
     mutation(from = "A", to = "a", rate = 1e-3),
     mutation(from = "B", to = "b", rate = 1e-3)
@@ -64,7 +64,7 @@ genomeObj <- Ease::setGenome(listHapLoci = HL, listDipLoci = DL)
 mutMatrixObj <- Ease::setMutationMatrix(genomeObj, mutations = mutations)
 ```
 The population is then defined, specifying its name (here `ExamplePop`), size (here 1,000 individuals), sexual system (here dioecy, i.e. 500 females and 500 males), genetic system and mutation pattern. In addition to this, it is necessary to define the type of selection. Here, for simplicity's sake, the alleles are defined as neutral.
-```{r}
+```r
 # Definition of a population of 1000 individuals, males and females
 pop <- Ease::setPopulation(
     name = "ExamplePop",
@@ -87,7 +87,7 @@ print(pop)
 #> -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- 
 ```
 Once the population has been defined, a metapopulation must be defined (here with only a single population). Below, its evolution is simulated over 2,000 generations with the genotype, haplotype and allele frequencies of each generation being recorded (by default when setting `recording = TRUE`).
-```{r}
+```r
 metapop <- Ease::setMetapopulation(populations = list(pop))
 metapop <- simulate(metapop, threshold = 2000, seed = 123, recording = TRUE)
 rec = Ease::getRecords(metapop)
