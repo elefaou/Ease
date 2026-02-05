@@ -13,7 +13,7 @@ affiliations:
  - name: Department of Ecology and Evolution, University of Lausanne, 1015 Lausanne, Switzerland
    index: 1
 date: 02 July 2023
-bibliography: paper/paper.bib
+bibliography: paper.bib
 ---
 
 # Summary
