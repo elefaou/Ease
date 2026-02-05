@@ -2,7 +2,7 @@
 
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/Ease)](https://CRAN.R-project.org/package=Ease)
-[![CRAN RStudio mirror downloads](https://cranlogs.r-pkg.org/badges/grand-total/Ease)](https://r-pkg.org/pkg/Ease)
+[![CRAN RStudio mirror downloads](https://cranlogs.r-pkg.org/badges/grand-total/LAVA)](https://r-pkg.org/pkg/LAVA)
 <!-- badges: end -->
 
 
