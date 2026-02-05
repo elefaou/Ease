@@ -1,4 +1,4 @@
-# Ease
+# Ease <img src="figures/logo.png" align="right" height="139" alt="" />
 
 <!-- badges: start -->
 ![Static Badge](https://img.shields.io/badge/build-passing-brightgreen)
