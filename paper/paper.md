@@ -5,7 +5,7 @@ tags:
   - Population genetics
   - Simulations
 authors:
-  - name: Ehouarn Le~Faou
+  - name: Ehouarn {Le Faou}
     orcid: 0000-0001-7969-6490
     equal-contrib: true
     affiliation: 1
