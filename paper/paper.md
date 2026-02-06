@@ -7,7 +7,6 @@ tags:
 authors:
   - name: Ehouarn {Le Faou}
     orcid: 0000-0001-7969-6490
-    equal-contrib: true
     affiliation: 1
 affiliations:
  - name: Department of Ecology and Evolution, University of Lausanne, 1015 Lausanne, Switzerland
