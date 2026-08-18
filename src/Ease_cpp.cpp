@@ -986,20 +986,20 @@ public:
 				outMat = as<NumericMatrix>(outVect);
 				rec.push_back(outMat, "(mal)gamProdMeanFit");
 
-				outVect = moniGamProdMeanFitness["male"];
+				outVect = moniGamProdMeanFitness["female"];
 				outVect.attr("dim") = Dimension(moniGenerations.length(), 1);
 				outMat = as<NumericMatrix>(outVect);
-				rec.push_back(outMat, "(mal)gamProdMeanFit");
+				rec.push_back(outMat, "(fem)gamProdMeanFit");
 
 				outVect = moniGamMeanFitness["male"];
 				outVect.attr("dim") = Dimension(moniGenerations.length(), 1);
 				outMat = as<NumericMatrix>(outVect);
 				rec.push_back(outMat, "(mal)gamMeanFit");
 
-				outVect = moniGamMeanFitness["male"];
+				outVect = moniGamMeanFitness["female"];
 				outVect.attr("dim") = Dimension(moniGenerations.length(), 1);
 				outMat = as<NumericMatrix>(outVect);
-				rec.push_back(outMat, "(mal)gamMeanFit");
+				rec.push_back(outMat, "(fem)gamMeanFit");
 			}
 		}
 
