@@ -447,7 +447,7 @@ NumericMatrix SELFING(int nbHaplo, int nbGeno, NumericMatrix freqGeno, NumericMa
 		{
 			NumericMatrix freqGenoFemale(1, nbGeno);
 			NumericMatrix freqGenoMale(1, nbGeno);
-			freqGenoFemale(0, i) = femProdFit(i);
+			freqGenoFemale(0, i) = 1;
 			freqGenoMale(0, i) = 1;
 			freqHaploFemale = MATRIX_PRODUCT(freqGenoFemale, gametogenesisMat);
 			freqHaploMale = MATRIX_PRODUCT(freqGenoMale, gametogenesisMat);
