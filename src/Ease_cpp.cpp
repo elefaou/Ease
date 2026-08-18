@@ -443,22 +443,25 @@ NumericMatrix SELFING(int nbHaplo, int nbGeno, NumericMatrix freqGeno, NumericMa
 
 	for (int i = 0; i < nbGeno; i++)
 	{
-		NumericMatrix freqGenoFemale(1, nbGeno);
-		NumericMatrix freqGenoMale(1, nbGeno);
-		freqGenoFemale(0, i) = femProdFit(i);
-		freqGenoMale(0, i) = maleProdFit(i);
-		freqHaploFemale = MATRIX_PRODUCT(freqGenoFemale, gametogenesisMat);
-		freqHaploMale = MATRIX_PRODUCT(freqGenoMale, gametogenesisMat);
-		for (int j = 0; j < nbHaplo; j++)
+		if (maleProdFit(i) > 0)
 		{
-			freqHaploFemale(0, j) = freqHaploFemale(0, j) * femgamFit(j);
-			freqHaploMale(0, j) = freqHaploMale(0, j) * malegamFit(j);
-		}
-		freqGenoOffspringProv = CROSSING(nbHaplo, nbGeno, freqHaploFemale, freqHaploMale, haploCrossMat);
+			NumericMatrix freqGenoFemale(1, nbGeno);
+			NumericMatrix freqGenoMale(1, nbGeno);
+			freqGenoFemale(0, i) = femProdFit(i);
+			freqGenoMale(0, i) = 1;
+			freqHaploFemale = MATRIX_PRODUCT(freqGenoFemale, gametogenesisMat);
+			freqHaploMale = MATRIX_PRODUCT(freqGenoMale, gametogenesisMat);
+			for (int j = 0; j < nbHaplo; j++)
+			{
+				freqHaploFemale(0, j) = freqHaploFemale(0, j) * femgamFit(j);
+				freqHaploMale(0, j) = freqHaploMale(0, j) * malegamFit(j);
+			}
+			freqGenoOffspringProv = CROSSING(nbHaplo, nbGeno, freqHaploFemale, freqHaploMale, haploCrossMat);
 
-		for (int j = 0; j < nbGeno; j++)
-		{
-			freqGenoOffspring(0, j) = freqGenoOffspring(0, j) + freqGenoOffspringProv(0, j) * freqGeno(0, i);
+			for (int j = 0; j < nbGeno; j++)
+			{
+				freqGenoOffspring(0, j) = freqGenoOffspring(0, j) + freqGenoOffspringProv(0, j) * freqGeno(0, i);
+			}
 		}
 	}
 	return STANDARDISATION(freqGenoOffspring);
