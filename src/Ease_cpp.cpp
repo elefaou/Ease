@@ -441,13 +441,15 @@ NumericMatrix SELFING(int nbHaplo, int nbGeno, NumericMatrix freqGeno, NumericMa
 	NumericMatrix freqGenoOffspringProv(1, nbGeno);
 	NumericMatrix freqGenoOffspring(1, nbGeno);
 
+	// Selfed offspring production is limited by female fecundity.
+	// Any positive male fecundity is sufficient for self-fertilization.
 	for (int i = 0; i < nbGeno; i++)
 	{
 		if (maleProdFit(i) > 0)
 		{
 			NumericMatrix freqGenoFemale(1, nbGeno);
 			NumericMatrix freqGenoMale(1, nbGeno);
-			freqGenoFemale(0, i) = 1;
+			freqGenoFemale(0, i) = femProdFit(i);
 			freqGenoMale(0, i) = 1;
 			freqHaploFemale = MATRIX_PRODUCT(freqGenoFemale, gametogenesisMat);
 			freqHaploMale = MATRIX_PRODUCT(freqGenoMale, gametogenesisMat);
